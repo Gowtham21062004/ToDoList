@@ -1,0 +1,57 @@
+fieldset{
+    color:chartreuse;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    display: flex;
+    border: 3px solid gray;
+   }
+   .gow{
+    color: brown;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:900;
+    font-style:initial;
+    background-color: blueviolet;
+    border: 3px solid black;
+   }
+   button{
+    background-color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkblue;
+    font-weight: bold;
+    border: 3px solid yellow;
+    font-size: large;
+   }
+button:hover{
+    background-color: darkturquoise;
+}
+
+input{
+    background-color:burlywood;
+    color:red;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 900;
+    border: 3px solid gold;
+}
+input:hover{
+    background-color: deepskyblue;
+}
+li{
+    color: black;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+}
+.todo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bolder;
+
+
+}
